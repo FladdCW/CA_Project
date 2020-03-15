@@ -49,5 +49,5 @@ Usage/Running it
 5. for all animals redirect to:
     http://127.0.0.1:5000/allAnimals
 
-6. To add/edit/delete animals from database modify pop_db.py (lines 29-38)
+6. To add/edit/delete animals from database modify and re-run pop_db.py (lines 29-38)
 
