@@ -29,13 +29,13 @@ VALUES
    (1,  'Bird' , 'Feathery, loud'),
    (2,  'Dog' ,'Furry, loud'),
    (3,  'Cat' ,'Furry, quiet'),
-   (4,  'Bear' ,'Furry, very loud'),
+   (4,  'Bear' ,'Furry, loud'),
    (5,  'Fish' ,'Slimy, quiet'),
    (6,  'Salamander' ,'Slimy, quiet'),
-   (7,  'Sugar Glider' ,'Airborne, skreetchy'),
+   (7,  'Sugar Glider' ,'Furry, loud'),
    (8,  'Squirrel' ,'Furry, quiet'),
    (9,  'Plant' ,'No data, quiet'),
-   (10,  'Dinosaur' ,'No data, not found');
+   (10,  'Dinosaur' ,'No data, No data');
 
 ''')
 
