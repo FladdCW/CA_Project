@@ -15,7 +15,7 @@ Setup
 Download code from Github
 
 Install python v3.x from https://www.python.org/downloads/
-    This project is using Python 3.4
+    (This project was written using Python 3.4)
 
 Install packages Flask and SQLite
     pip install flask
