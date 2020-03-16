@@ -39,8 +39,7 @@ VALUES
 
 ''')
 
-conn.commit()    # COMMIT the data inserted so that the data persists
-                # you can try to comment the COMMIT line and then below you will see 0 records in table
+conn.commit()    # COMMIT the data inserted 
 
 
 conn.close()
