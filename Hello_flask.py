@@ -77,6 +77,5 @@ def close_connection(exception):
     if db is not None:
         db.close()
 
-#
 if __name__=='__main__':
     app.run(debug=True)
