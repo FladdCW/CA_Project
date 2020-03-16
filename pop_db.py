@@ -17,7 +17,7 @@ CREATE TABLE IF NOT EXISTS animals (
 );
 ''')
 
-# Wipe out records cause we reload them next
+# Wipe out records before reload
 cursor.execute('''
 DELETE FROM animals;
 ''')
